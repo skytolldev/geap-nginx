@@ -1,5 +1,5 @@
 #! /bin/bash
-set -eE
+set -euxE
 
 LETCD="/usr/local/etc/nginx"
 CONFD="${LETCD}/conf.d"
